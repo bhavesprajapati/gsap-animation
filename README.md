@@ -1,4 +1,4 @@
-# how to use this code:
+# How to use this code:
 In the section where you want scroll animation , give the class panel center.
 
 ## 
